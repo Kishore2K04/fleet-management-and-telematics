@@ -1,0 +1,2 @@
+Fleet Management is the administrative approach companies use to manage and coordinate a fleet of vehicles. This includes overseeing all aspects of vehicle operation
+Telematics is the technology that powers modern fleet management by integrating telecommunications and informatics. It involves the use of GPS, onboard diagnostics (OBD), and Internet of Things (IoT) devices to collect, transmit, and analyze vehicle data in real time.
